@@ -1,5 +1,0 @@
-C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.ReferenceDatasets.FeatureSources.ParameterProviders\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.ReferenceDatasets.FeatureSources.ParameterProviders.dll
-C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.ReferenceDatasets.FeatureSources.ParameterProviders\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.ReferenceDatasets.FeatureSources.ParameterProviders.pdb
-C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.ReferenceDatasets.FeatureSources.ParameterProviders\src\Main\obj\Release\Geocoding.Core.ReferenceDatasets.FeatureSources.ParameterProviders.Dev.csprojResolveAssemblyReference.cache
-C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.ReferenceDatasets.FeatureSources.ParameterProviders\src\Main\obj\Release\Tamu.GeoInnovation.Geocoding.Core.ReferenceDatasets.FeatureSources.ParameterProviders.dll
-C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.ReferenceDatasets.FeatureSources.ParameterProviders\src\Main\obj\Release\Tamu.GeoInnovation.Geocoding.Core.ReferenceDatasets.FeatureSources.ParameterProviders.pdb
