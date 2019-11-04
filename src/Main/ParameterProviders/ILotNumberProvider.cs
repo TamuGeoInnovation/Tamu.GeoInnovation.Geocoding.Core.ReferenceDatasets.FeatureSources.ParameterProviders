@@ -4,6 +4,6 @@ namespace USC.GISResearchLab.Common.Geocoders.InterpolationAlgorithms.ParameterP
 {
     public interface ILotNumberProvider
     {
-        int GetLotNumber(StreetAddress address,int from, int to);
+        int GetLotNumber(StreetAddress address, int from, int to);
     }
 }
